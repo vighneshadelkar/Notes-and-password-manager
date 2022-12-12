@@ -1,4 +1,5 @@
 NOTES AND PASSWORD MANAGER
+<BR>
 Made with html bootstrap and javascript. 
 <BR>
 Used javascript to add notes and to delete them by double clicking on the existing notes. 
